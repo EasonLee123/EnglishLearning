@@ -11,9 +11,9 @@
 ## Task2
 
 	Describe environmental pollution in your city.
-		* what type of pollution is/are?
-		* why it had happened?
-		* explain how this pollution can be controlled
+		- what type of pollution is/are?
+		- why it had happened?
+		- explain how this pollution can be controlled
 	I have been living in Guangzhou for almost 20 years, I have the chance to see/feel how the city has changed in these years. Due to the increasing of population and tourist, local enviorment has been polluted significantly. Indeed, many people will throw illegally rubbish into the land and water, which causes the land and water pollution. In addition, industrial waste from factories is contributing to the high level of pollution at the mean time.In order to control the issues, I would suggest every citizen in our city behave well in terms of pollution control. what's more, the government should heavily fine who are caught realising trash into the atmosphere. By carrying out the rule, people being intent to litter the environment will be afraid of being punished, which can deter them from discharging unlawful waste. Although two actions above is just simple. I think it will be an effective way to mitigate the environmental contamination in a long-term.
 	
 ## Task3
